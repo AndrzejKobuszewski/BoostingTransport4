@@ -1,0 +1,1201 @@
+[19-06-2018 09:56:56] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 09:59:50] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 10:01:58] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.gddkia.gov.pl/dane/zima_html/utrdane.xml". A feed could not be found at https://www.gddkia.gov.pl/dane/zima_html/utrdane.xml. This does not appear to be a valid RSS or Atom feed.
+
+[19-06-2018 10:01:58] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 10:02:16] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.gddkia.gov.pl/dane/zima_html/utrdane.xml". A feed could not be found at https://www.gddkia.gov.pl/dane/zima_html/utrdane.xml. This does not appear to be a valid RSS or Atom feed.
+
+[19-06-2018 10:02:16] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 10:32:25] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 10:32:39] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 10:32:51] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 10:38:22] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 10:38:23] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 10:40:19] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 10:40:20] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 10:45:21] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 10:45:32] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 11:04:34] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 11:04:34] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 11:11:56] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 11:11:56] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 11:25:42] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 11:25:42] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 11:40:23] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 11:40:24] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 11:55:43] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 11:55:43] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 12:14:58] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 12:14:58] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 12:25:50] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 12:25:51] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 12:42:05] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 12:42:05] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 12:56:30] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 12:56:30] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 13:41:02] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 13:41:02] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 18:06:10] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 18:06:10] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 18:16:32] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 18:16:32] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 18:33:07] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 18:33:08] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 18:41:48] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 18:41:48] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 18:55:19] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 18:55:19] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 19:35:58] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 19:35:58] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 19:40:17] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 19:40:17] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 19:55:52] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 19:55:52] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 20:10:52] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 20:10:52] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 20:26:03] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 20:26:03] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 20:41:10] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 20:41:11] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 20:55:44] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 20:55:44] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 21:12:20] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 21:12:20] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 21:28:25] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 21:28:25] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 21:40:38] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 21:40:38] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 21:55:46] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 21:55:46] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 22:10:48] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 22:10:48] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 22:28:46] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 22:28:46] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 22:40:21] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 22:40:21] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 22:55:23] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 22:55:23] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 23:10:33] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 23:10:34] [Error] WPRSS > 2:
+Sorted: 
+
+
+[19-06-2018 23:25:28] [Error] WPRSS > 2:
+Sorted: 
+
+[19-06-2018 23:25:28] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 06:17:15] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 06:17:15] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 06:25:58] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 06:25:59] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 06:40:28] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 06:40:28] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 06:57:45] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 06:57:46] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 07:12:36] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 07:12:36] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 07:26:46] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 07:26:46] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 07:44:05] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 07:44:06] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 07:58:12] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 07:58:12] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 08:11:44] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 08:11:44] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 08:28:25] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 08:28:25] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 09:10:29] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 09:10:29] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 09:10:29] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 09:10:29] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 09:25:22] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 09:25:23] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 09:41:54] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 09:41:55] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 09:57:08] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 09:57:09] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 10:10:35] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 10:10:36] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 10:27:46] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 10:27:47] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 11:04:08] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 11:04:08] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 11:29:35] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 11:29:35] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 11:42:38] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 11:42:38] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 11:57:44] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 11:57:44] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 12:41:50] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 12:41:50] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 12:55:45] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 12:55:46] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 13:12:38] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 13:12:39] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 13:28:24] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 13:28:25] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 13:40:24] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 13:40:25] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 14:36:27] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 14:36:28] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 14:40:51] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 14:40:51] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 14:56:41] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 14:56:41] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 15:13:10] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 15:13:10] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 15:25:21] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 15:25:22] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 15:53:02] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 15:53:03] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 15:55:58] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 15:55:59] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 16:10:35] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 16:10:36] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 17:10:13] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 17:10:14] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 17:11:03] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 17:11:03] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 17:27:13] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 17:27:14] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 17:40:17] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 17:40:18] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 17:57:53] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 17:57:53] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 19:43:26] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 19:43:26] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 19:59:02] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 19:59:05] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 20:13:18] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 20:13:19] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 20:26:47] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 20:26:48] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 20:43:08] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 20:43:08] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 20:56:02] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 20:56:02] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 21:35:18] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 21:35:18] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 21:44:15] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 21:44:15] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 21:56:59] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 21:57:04] [Error] WPRSS > 2:
+Sorted: 
+
+
+[20-06-2018 22:11:33] [Error] WPRSS > 2:
+Sorted: 
+
+[20-06-2018 22:11:34] [Error] WPRSS > 2:
+Sorted: 
+
+
+[21-06-2018 06:17:52] [Error] WPRSS > 2:
+Sorted: 
+
+[21-06-2018 06:17:52] [Error] WPRSS > 2:
+Sorted: 
+
+
+[21-06-2018 06:26:25] [Error] WPRSS > 2:
+Sorted: 
+
+[21-06-2018 06:26:25] [Error] WPRSS > 2:
+Sorted: 
+
+
+[21-06-2018 06:43:48] [Error] WPRSS > 2:
+Sorted: 
+
+[21-06-2018 06:43:48] [Error] WPRSS > 2:
+Sorted: 
+
+
+[21-06-2018 07:53:08] [Error] WPRSS > 2:
+Sorted: 
+
+[21-06-2018 07:53:09] [Error] WPRSS > 2:
+Sorted: 
+
+
+[21-06-2018 07:57:40] [Error] WPRSS > 2:
+Sorted: 
+
+[21-06-2018 07:57:40] [Error] WPRSS > 2:
+Sorted: 
+
+
+[21-06-2018 08:10:45] [Error] WPRSS > 2:
+Sorted: 
+
+[21-06-2018 08:10:45] [Error] WPRSS > 2:
+Sorted: 
+
+
+[21-06-2018 09:12:10] [Error] WPRSS > 2:
+Sorted: 
+
+[21-06-2018 09:12:10] [Error] WPRSS > 2:
+Sorted: 
+
+
+[21-06-2018 09:35:11] [Error] WPRSS > 2:
+Sorted: 
+
+[21-06-2018 09:35:12] [Error] WPRSS > 2:
+Sorted: 
+
+
+[21-06-2018 09:41:36] [Error] WPRSS > 2:
+Sorted: 
+
+[21-06-2018 09:41:36] [Error] WPRSS > 2:
+Sorted: 
+
+
+[21-06-2018 09:56:11] [Error] WPRSS > 2:
+Sorted: 
+
+[21-06-2018 09:56:11] [Error] WPRSS > 2:
+Sorted: 
+
+
+[21-06-2018 10:10:34] [Error] WPRSS > 2:
+Sorted: 
+
+[21-06-2018 10:10:35] [Error] WPRSS > 2:
+Sorted: 
+
+
+[21-06-2018 10:27:16] [Error] WPRSS > 2:
+Sorted: 
+
+[21-06-2018 10:27:16] [Error] WPRSS > 2:
+Sorted: 
+
+
+[21-06-2018 11:45:22] [Error] WPRSS > 2:
+Sorted: 
+
+[21-06-2018 11:45:22] [Error] WPRSS > 2:
+Sorted: 
+
+
+[21-06-2018 12:26:27] [Error] WPRSS > 2:
+Sorted: 
+
+[21-06-2018 12:26:28] [Error] WPRSS > 2:
+Sorted: 
+
+
+[21-06-2018 12:26:40] [Error] WPRSS > 2:
+Sorted: 
+
+[21-06-2018 12:26:40] [Error] WPRSS > 2:
+Sorted: 
+
+
+[21-06-2018 12:43:46] [Error] WPRSS > 2:
+Sorted: 
+
+[21-06-2018 12:43:46] [Error] WPRSS > 2:
+Sorted: 
+
+
+[21-06-2018 13:10:11] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://mi.gov.pl/rss.php". cURL error 6: Could not resolve host: mi.gov.pl
+
+[21-06-2018 13:10:11] [Error] WPRSS > 2:
+Sorted: 
+
+[21-06-2018 13:10:31] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.gddkia.gov.pl/pl/rss". cURL error 6: Could not resolve host: www.gddkia.gov.pl
+
+[21-06-2018 13:10:31] [Error] WPRSS > 2:
+Sorted: 
+
+
+[21-06-2018 13:13:48] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://mi.gov.pl/rss.php". cURL error 6: Could not resolve host: mi.gov.pl
+
+[21-06-2018 13:13:48] [Error] WPRSS > 2:
+Sorted: 
+
+[21-06-2018 13:14:09] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.gddkia.gov.pl/pl/rss". cURL error 6: Could not resolve host: www.gddkia.gov.pl
+
+[21-06-2018 13:14:09] [Error] WPRSS > 2:
+Sorted: 
+
+
+[21-06-2018 13:26:10] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://mi.gov.pl/rss.php". cURL error 6: Could not resolve host: mi.gov.pl
+
+[21-06-2018 13:26:10] [Error] WPRSS > 2:
+Sorted: 
+
+[21-06-2018 13:26:31] [Error] WPRSS > wprss_get_feed_items:
+Failed to fetch feed "https://www.gddkia.gov.pl/pl/rss". cURL error 6: Could not resolve host: www.gddkia.gov.pl
+
+[21-06-2018 13:26:31] [Error] WPRSS > 2:
+Sorted: 
+
+
+[21-06-2018 16:44:46] [Error] WPRSS > 2:
+Sorted: 
+
+[21-06-2018 16:44:46] [Error] WPRSS > 2:
+Sorted: 
+
+
+[21-06-2018 19:04:53] [Error] WPRSS > 2:
+Sorted: 
+
+[21-06-2018 19:04:53] [Error] WPRSS > 2:
+Sorted: 
+
+
+[21-06-2018 23:43:01] [Error] WPRSS > 2:
+Sorted: 
+
+[21-06-2018 23:43:01] [Error] WPRSS > 2:
+Sorted: 
+
+
+[21-06-2018 23:43:04] [Error] WPRSS > 2:
+Sorted: 
+
+[21-06-2018 23:43:04] [Error] WPRSS > 2:
+Sorted: 
+
+
+[22-06-2018 09:51:43] [Error] WPRSS > 2:
+Sorted: 
+
+[22-06-2018 09:51:44] [Error] WPRSS > 2:
+Sorted: 
+
+
+[03-07-2018 16:16:01] [Error] WPRSS > 2:
+Sorted: 
+
+[03-07-2018 16:16:02] [Error] WPRSS > 2:
+Sorted: 
+
+
+[03-07-2018 16:26:29] [Error] WPRSS > 2:
+Sorted: 
+
+[03-07-2018 16:26:30] [Error] WPRSS > 2:
+Sorted: 
+
+
+[03-07-2018 16:42:06] [Error] WPRSS > 2:
+Sorted: 
+
+[03-07-2018 16:42:10] [Error] WPRSS > 2:
+Sorted: 
+
+
+[04-07-2018 08:28:22] [Error] WPRSS > 2:
+Sorted: 
+
+[04-07-2018 08:28:22] [Error] WPRSS > 2:
+Sorted: 
+
+
+[04-07-2018 08:28:23] [Error] WPRSS > 2:
+Sorted: 
+
+[04-07-2018 08:28:24] [Error] WPRSS > 2:
+Sorted: 
+
+
+[04-07-2018 08:41:10] [Error] WPRSS > 2:
+Sorted: 
+
+[04-07-2018 08:41:11] [Error] WPRSS > 2:
+Sorted: 
+
+
+[04-07-2018 09:03:19] [Error] WPRSS > 2:
+Sorted: 
+
+[04-07-2018 09:03:19] [Error] WPRSS > 2:
+Sorted: 
+
+
+[04-07-2018 09:10:45] [Error] WPRSS > 2:
+Sorted: 
+
+[04-07-2018 09:10:46] [Error] WPRSS > 2:
+Sorted: 
+
+
+[04-07-2018 09:43:57] [Error] WPRSS > 2:
+Sorted: 
+
+[04-07-2018 09:43:57] [Error] WPRSS > 2:
+Sorted: 
+
+
+[04-07-2018 09:59:13] [Error] WPRSS > 2:
+Sorted: 
+
+[04-07-2018 09:59:13] [Error] WPRSS > 2:
+Sorted: 
+
+
+[04-07-2018 10:11:26] [Error] WPRSS > 2:
+Sorted: 
+
+[04-07-2018 10:11:29] [Error] WPRSS > 2:
+Sorted: 
+
+
+[04-07-2018 10:26:04] [Error] WPRSS > 2:
+Sorted: 
+
+[04-07-2018 10:26:04] [Error] WPRSS > 2:
+Sorted: 
+
+
+[04-07-2018 10:42:59] [Error] WPRSS > 2:
+Sorted: 
+
+[04-07-2018 10:43:16] [Error] WPRSS > 2:
+Sorted: 
+
+
+[04-07-2018 10:56:27] [Error] WPRSS > 2:
+Sorted: 
+
+[04-07-2018 10:56:27] [Error] WPRSS > 2:
+Sorted: 
+
+
+[04-07-2018 11:10:56] [Error] WPRSS > 2:
+Sorted: 
+
+[04-07-2018 11:10:57] [Error] WPRSS > 2:
+Sorted: 
+
+
+[04-07-2018 11:26:14] [Error] WPRSS > 2:
+Sorted: 
+
+[04-07-2018 11:26:14] [Error] WPRSS > 2:
+Sorted: 
+
+
+[04-07-2018 11:40:34] [Error] WPRSS > 2:
+Sorted: 
+
+[04-07-2018 11:40:35] [Error] WPRSS > 2:
+Sorted: 
+
+
+[04-07-2018 11:55:37] [Error] WPRSS > 2:
+Sorted: 
+
+[04-07-2018 11:55:38] [Error] WPRSS > 2:
+Sorted: 
+
+
+[04-07-2018 12:10:17] [Error] WPRSS > 2:
+Sorted: 
+
+[04-07-2018 12:10:17] [Error] WPRSS > 2:
+Sorted: 
+
+
+[04-07-2018 12:54:26] [Error] WPRSS > 2:
+Sorted: 
+
+[04-07-2018 12:54:27] [Error] WPRSS > 2:
+Sorted: 
+
+
+[04-07-2018 13:00:23] [Error] WPRSS > 2:
+Sorted: 
+
+[04-07-2018 13:00:24] [Error] WPRSS > 2:
+Sorted: 
+
+
+[04-07-2018 13:10:44] [Error] WPRSS > 2:
+Sorted: 
+
+[04-07-2018 13:10:45] [Error] WPRSS > 2:
+Sorted: 
+
+
+[04-07-2018 13:25:22] [Error] WPRSS > 2:
+Sorted: 
+
+[04-07-2018 13:25:23] [Error] WPRSS > 2:
+Sorted: 
+
+
+[04-07-2018 13:40:41] [Error] WPRSS > 2:
+Sorted: 
+
+[04-07-2018 13:40:41] [Error] WPRSS > 2:
+Sorted: 
+
+
+[04-07-2018 16:56:44] [Error] WPRSS > 2:
+Sorted: 
+
+[04-07-2018 16:56:45] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 08:14:16] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 08:14:16] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 08:24:17] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 08:24:18] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 08:25:52] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 08:25:52] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 08:42:39] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 08:42:39] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 08:58:29] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 08:58:30] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 09:10:54] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 09:10:55] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 09:33:18] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 09:33:19] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 09:55:49] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 09:55:49] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 10:11:24] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 10:11:24] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 10:26:52] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 10:26:53] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 10:40:31] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 10:40:32] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 10:59:02] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 10:59:02] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 11:10:16] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 11:10:17] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 11:37:46] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 11:37:47] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 11:43:40] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 11:43:40] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 12:01:30] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 12:01:31] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 12:14:18] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 12:14:19] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 12:26:57] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 12:26:58] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 12:42:08] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 12:42:08] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 12:57:05] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 12:57:06] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 13:33:53] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 13:33:53] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 13:41:36] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 13:41:36] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 14:14:40] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 14:14:41] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 14:25:37] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 14:25:37] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 15:14:34] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 15:14:34] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 15:25:25] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 15:25:25] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 15:45:08] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 15:45:09] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 15:57:56] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 15:57:57] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 16:14:50] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 16:14:50] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 16:26:05] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 16:26:06] [Error] WPRSS > 2:
+Sorted: 
+
+
+[05-07-2018 18:08:00] [Error] WPRSS > 2:
+Sorted: 
+
+[05-07-2018 18:08:00] [Error] WPRSS > 2:
+Sorted: 
+
+
